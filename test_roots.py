@@ -1,4 +1,5 @@
-%%file test_roots.py
+#!/usr/bin/env python
+
 import pytest
 import roots
 
